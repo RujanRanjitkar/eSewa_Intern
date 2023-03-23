@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="afe1edd5-4c7d-4714-a845-5799402d3f57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Day4/ObjectSorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day4/ReverseNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/StaticMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Day5/UserdefinedMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week1/Day4/JumpStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1/Day4/JumpStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week1/Day5/UserdefinedMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1/Day5/UserdefinedMethod.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,10 +39,11 @@
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.UserdefinedMethod">
+  <component name="RunManager" selected="Application.TicTacToe">
     <configuration name="FindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day4.FindNum" />
       <module name="Week1" />
@@ -72,25 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredefinedMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.PredefinedMethod" />
+    <configuration name="TicTacToe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TicTacToe" />
       <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.StaticMethod" />
+    <configuration name="TwoArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day6.TwoArray" />
       <module name="Week1" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day5.*" />
+          <option name="PATTERN" value="Day6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,11 +105,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.TwoArray" />
         <item itemvalue="Application.UserdefinedMethod" />
         <item itemvalue="Application.FindNum" />
         <item itemvalue="Application.InstanceMethod" />
-        <item itemvalue="Application.StaticMethod" />
-        <item itemvalue="Application.PredefinedMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -129,7 +121,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679543164588</updated>
-      <workItem from="1679543166020" duration="3429000" />
+      <workItem from="1679543166020" duration="14103000" />
     </task>
     <servers />
   </component>
