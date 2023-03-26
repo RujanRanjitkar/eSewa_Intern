@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="afe1edd5-4c7d-4714-a845-5799402d3f57" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Week1/Day5/UserdefinedMethod.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1/Day5/UserdefinedMethod.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Week1/TicTacToe.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Week1/TicTacToe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TicTacToe.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,41 +32,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.TicTacToe">
-    <configuration name="FindNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day4.FindNum" />
+    <configuration name="GameTTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GameTTT" />
       <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InstanceMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day5.InstanceMethod" />
+    <configuration name="TTT" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TTT" />
       <module name="Week1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Day5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -106,10 +95,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.TicTacToe" />
+        <item itemvalue="Application.TTT" />
+        <item itemvalue="Application.GameTTT" />
         <item itemvalue="Application.TwoArray" />
         <item itemvalue="Application.UserdefinedMethod" />
-        <item itemvalue="Application.FindNum" />
-        <item itemvalue="Application.InstanceMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -121,7 +110,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1679543164588</updated>
-      <workItem from="1679543166020" duration="14103000" />
+      <workItem from="1679543166020" duration="15769000" />
+      <workItem from="1679583096001" duration="7612000" />
+      <workItem from="1679648756941" duration="14956000" />
     </task>
     <servers />
   </component>
